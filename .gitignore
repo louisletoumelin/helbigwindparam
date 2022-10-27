@@ -1,0 +1,5 @@
+.pytest_cache/*
+helbigwindparam/helbigwindparam.egg-info
+helbigwindparam/helbigwindparam.egg-info/*
+helbigwindparam.egg-info
+helbigwindparam.egg-info/*
